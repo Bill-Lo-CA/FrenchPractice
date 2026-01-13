@@ -1,3 +1,6 @@
-## ./download_youtube.py
-./video_splitter.py
+## download_youtube.py
+video_splitter.py
+download_all.bat
 assets/
+output/
+__pycache__/
